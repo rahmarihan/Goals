@@ -13,19 +13,19 @@ A simple React Native app to add, view, and manage your course goals.
 
 ### Home Screen
 
-![Home Screen](screenshots/screenshot1.png)
+![Home Screen](assets/images/1.png)
 
 ### Add Goal Modal (with text)
 
-![Add Goal Modal](screenshots/screenshot2.png)
+![Add Goal Modal](assets/images/2.png)
 
 ### Add Goal Modal (empty)
 
-![Add Goal Modal Empty](screenshots/screenshot3.png)
+![Add Goal Modal Empty](assets/images/3.png)
 
 ### Empty State
 
-![Empty State](screenshots/screenshot4.png)
+![Empty State](assets/images/4.png)
 
 ## Getting Started
 
